@@ -16,6 +16,9 @@
             a {
             color: black;
             }
+            a:hover {
+            opacity: 0.5;
+            }
             .footer {
                 position: fixed; bottom: 1px;
             }
@@ -25,15 +28,15 @@
             }
             img:hover {
             opacity: 0.5;}
-p {
-    font-size: large;
-}
-ol {
-    font-size: large
-}
-ul {
-    font-size: large;
-}
+            p {
+            font-size: large;
+            }
+            ol {
+            font-size: large
+            }
+            ul {
+            font-size: large;
+            }
             .column {
                 text-align: center;
             }
